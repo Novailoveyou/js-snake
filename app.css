@@ -1,0 +1,8 @@
+.cell {
+  padding: 15px;
+  border: 1px solid #000;
+}
+
+.snake {
+  background: #000;
+}
